@@ -1,0 +1,58 @@
+Keyboard Shortcut
+
+Untuk mengetahui seluruh keyboard shortcut yang ada di VS Code, 
+dapat dilihat pada Manage > Keyboard Shortcut (Ctrl+K Ctrl+S)
+
+Beberapa shortcut yang sering digunakan diantaranya:
+1) Ctrl + D; Memilih kata terdekat yang sama 
+2) Alt + F4; Menutup jendela
+3) F5; Memulai debugging
+4) Shift F5; Menghentikan debugging
+5) Ctrl + S; Menyimpan file
+6) Ctrl + P; Membuka file pada directory yang sama (Quick open/Quick file navigation)
+7) Ctrl + `; Membuka integrated terminal
+8) Ctrl + Z; Membatalkan perubahan terbaru (Undo)
+9) Ctrl + Y; Mengulang perubahan yang telah dibatalkan (Redo)
+10) Ctrl + F; Mencari kata tertentu
+11) Ctrl + H; Mencari lalu mengganti kata tertentu
+12) Ctrl + N; Membuat file baru
+13) Ctrl + /; Comment atau un-comment
+14) Ctrl + A; Memilih semua pada editor
+15) F11; Layar penuh
+16) Ctrl + B; Menutup atau membuka bar samping
+17) Ctrl + J; Menutup atau membuka panel bawah
+18) Ctrl + Shift + X; Membuka extension
+19) Ctrl + Shift + E; Membuka file explorer
+20) Alt + bawah; Memindahkan baris ke bawah
+
+
+Selain keyboard shortcut, terdapat juga Emmet Abbreviation
+yang dapat digunakan dalam pengerjaan salah satunya pada HTML
+
+Beberapa emmet abbreviation yang sering digunakan diantaranya:
+1) !
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+2) a
+<a href=""></a>
+
+3) .this-class
+<div class="this-class"></div>
+
+4)  $this-id
+<div id="this-id"></div>
+
+5) ul>li*2
+<ul>
+    <li></li>
+    <li></li>
+</ul>
