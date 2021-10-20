@@ -1,0 +1,28 @@
+Perbandingan Trello vs Jira vs YouTrack
+
+Trello:
+1) Tampilan hanya Kanban board
+2) Kolom tidak dapat di-merge
+3) Board sederhana dan tidak terlalu banyak kostumisasi
+4) Jumlah anggota tim tidak terbatas bagi pengguna free version
+5) Terdapat add-ons dan plugin untuk integrasi dengan produk lain
+
+Jira by Atlassian:
+1) Terdapat beberapa tampilan, salah satunya Kanban board
+2) Kolom tidak dapat di-merge
+3) Board dapat dikustomisasi
+4) Jumlah anggota tim 10 orang bagi pengguna free version
+5) Terdapat add-ons dan plugin pada marketplace Atlassian
+
+YouTrack by JetBrains:
+1) Terdapat beberapa tampilan, salah satunya Kanban board
+2) Kolom dapat di-merge
+3) Board dapat dikustomisasi
+4) Jumlah anggota tim 10 orang bagi pengguna free version
+5) Berbagai jenis integrasi dengan produk JetBrains lainnya
+
+
+Diantara ketiganya, saya memilih trello karena kesederhanaannya
+juga kepopulerannya sehingga lebih mudah untuk bergabung dengan tim.
+Selain itu, saya juga belum melihat urgensi untuk menggunakan 
+produk lain yang menawarkan lebih banyak fitur.
